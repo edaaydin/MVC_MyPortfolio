@@ -2,7 +2,7 @@
 
 Udemy’de ücretsiz olarak erişim sağlayabileceğimiz Murat Yücedağ tarafından hazırlanan ASP.NET Core ile Portfolyo Uygulamanızı Geliştirin Part 1 ve Part 2 kurslarını tamamlamış bulunmaktayım. 
 
-Bu süreçte edindiğim bilgilerle MyPortfolio isimli projeyi geliştirdim. Projemin detaylarını aşağıda paylaşıyorum:
+Bu süreçte edindiğim bilgilerle MyPortfolio isimli projeyi geliştirdim. Projemin detaylarını aşağıda paylaşıyorum
 
 MyPortfolio Projesi Detayları
 
